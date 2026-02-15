@@ -1,2 +1,2 @@
 # git-demo
-learn about github
+README was modified
